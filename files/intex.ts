@@ -3,3 +3,4 @@ export default class logger {
     console.log(message);
   }
 }
+asdasdasdasasd
